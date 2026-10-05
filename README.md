@@ -1,6 +1,15 @@
-# TOOL_game_start
+# interactor-tool-game-start
 
-1. Does not have a graphical interface.
-2. Downloads the graphical downloader.
-3. Simple
-4. Uses casync prototcol
+A design note for a game starter with no graphical interface that downloads the graphical downloader over the casync protocol.
+
+## What it is for
+
+The starter stays simple: it has no interface of its own and one job, fetching the graphical downloader as casync chunks.
+
+## Build
+
+There is nothing to build: the repository holds only this note.
+
+## Licence
+
+The licence is not stated.
